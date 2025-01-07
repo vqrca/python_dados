@@ -1,4 +1,4 @@
-Idade,Sexo,Tipo_dor,Pressao_arterial,Colesterol,Glicemia_jejum>120,Resultados_ECG,Frequencia_cardiaca_max,Dor_exercicio,Depressao_ST,Inclinacao_ST,Numero_vasos_fluro,Teste_cintilografia,Doenca_cardiaca
+Idade,Sexo_biologico,Tipo_dor,Pressao_arterial,Colesterol,Glicemia_jejum>120,Resultados_ECG,Frequencia_cardiaca_max,Dor_exercicio,Depressao_ST,Inclinacao_ST,Numero_vasos_fluro,Teste_cintilografia,Doenca_cardiaca
 70,Masculino,4,130,322,0,2,109,Não,2.4,2,3,3,Sim
 67,Feminino,3,115,564,0,2,160,Não,1.6,2,0,7,Não
 57,Masculino,2,124,261,0,0,141,Não,0.3,1,0,7,Sim
