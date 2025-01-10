@@ -1,0 +1,271 @@
+Idade,Sexo_biologico,Tipo_dor,Pressao_arterial,Colesterol,Glicemia_jejum>120,Resultados_ECG,Frequencia_cardiaca_max,Dor_exercicio,Depressao_ST,Inclinacao_ST,Numero_vasos_fluro,Teste_cintilografia,Doenca_cardiaca
+70,Masculino,assintomática,130,322,Não,2,109,Não,2.4,2,3,3,Sim
+67,Feminino,dor não anginosa,115,564,Não,2,160,Não,1.6,2,0,7,Não
+57,Masculino,angina atípica,124,261,Não,0,141,Não,0.3,1,0,7,Sim
+64,Masculino,assintomática,128,263,Não,0,105,Sim,0.2,2,1,7,Não
+74,Feminino,angina atípica,120,269,Não,2,121,Sim,0.2,1,1,3,Não
+65,Masculino,assintomática,120,177,Não,0,140,Não,0.4,1,0,7,Não
+56,Masculino,dor não anginosa,130,256,Sim,2,142,Sim,0.6,2,1,6,Sim
+59,Masculino,assintomática,110,239,Não,2,142,Sim,1.2,2,1,7,Sim
+60,Masculino,assintomática,140,293,Não,2,170,Não,1.2,2,2,7,Sim
+63,Feminino,assintomática,150,407,Não,2,154,Não,4.0,2,3,7,Sim
+59,Masculino,assintomática,135,234,Não,0,161,Não,0.5,2,0,7,Não
+53,Masculino,assintomática,142,226,Não,2,111,Sim,0.0,1,0,7,Não
+44,Masculino,dor não anginosa,140,235,Não,2,180,Não,0.0,1,0,3,Não
+61,Masculino,angina típica,134,234,Não,0,145,Não,2.6,2,2,3,Sim
+57,Feminino,assintomática,128,303,Não,2,159,Não,0.0,1,1,3,Não
+71,Feminino,assintomática,112,149,Não,0,125,Não,1.6,2,0,3,Não
+46,Masculino,assintomática,140,311,Não,0,120,Sim,1.8,2,2,7,Sim
+53,Masculino,assintomática,140,203,Sim,2,155,Sim,3.1,3,0,7,Sim
+64,Masculino,angina típica,110,211,Não,2,144,Sim,1.8,2,0,3,Não
+40,Masculino,angina típica,140,199,Não,0,178,Sim,1.4,1,0,7,Não
+67,Masculino,assintomática,120,229,Não,2,129,Sim,2.6,2,2,7,Sim
+48,Masculino,angina atípica,130,245,Não,2,180,Não,0.2,2,0,3,Não
+43,Masculino,assintomática,115,303,Não,0,181,Não,1.2,2,0,3,Não
+47,Masculino,assintomática,112,204,Não,0,143,Não,0.1,1,0,3,Não
+54,Feminino,angina atípica,132,288,Sim,2,159,Sim,0.0,1,1,3,Não
+48,Feminino,dor não anginosa,130,275,Não,0,139,Não,0.2,1,0,3,Não
+46,Feminino,assintomática,138,243,Não,2,152,Sim,0.0,2,0,3,Não
+51,Feminino,dor não anginosa,120,295,Não,2,157,Não,0.6,1,0,3,Não
+58,Masculino,dor não anginosa,112,230,Não,2,165,Não,2.5,2,1,7,Sim
+71,Feminino,dor não anginosa,110,265,Sim,2,130,Não,0.0,1,1,3,Não
+57,Masculino,dor não anginosa,128,229,Não,2,150,Não,0.4,2,1,7,Sim
+66,Masculino,assintomática,160,228,Não,2,138,Não,2.3,1,0,6,Não
+37,Feminino,dor não anginosa,120,215,Não,0,170,Não,0.0,1,0,3,Não
+59,Masculino,assintomática,170,326,Não,2,140,Sim,3.4,3,0,7,Sim
+50,Masculino,assintomática,144,200,Não,2,126,Sim,0.9,2,0,7,Sim
+48,Masculino,assintomática,130,256,Sim,2,150,Sim,0.0,1,2,7,Sim
+61,Masculino,assintomática,140,207,Não,2,138,Sim,1.9,1,1,7,Sim
+59,Masculino,angina típica,160,273,Não,2,125,Não,0.0,1,0,3,Sim
+42,Masculino,dor não anginosa,130,180,Não,0,150,Não,0.0,1,0,3,Não
+48,Masculino,assintomática,122,222,Não,2,186,Não,0.0,1,0,3,Não
+40,Masculino,assintomática,152,223,Não,0,181,Não,0.0,1,0,7,Sim
+62,Feminino,assintomática,124,209,Não,0,163,Não,0.0,1,0,3,Não
+44,Masculino,dor não anginosa,130,233,Não,0,179,Sim,0.4,1,0,3,Não
+46,Masculino,angina atípica,101,197,Sim,0,156,Não,0.0,1,0,7,Não
+59,Masculino,dor não anginosa,126,218,Sim,0,134,Não,2.2,2,1,6,Sim
+58,Masculino,dor não anginosa,140,211,Sim,2,165,Não,0.0,1,0,3,Não
+49,Masculino,dor não anginosa,118,149,Não,2,126,Não,0.8,1,3,3,Sim
+44,Masculino,assintomática,110,197,Não,2,177,Não,0.0,1,1,3,Sim
+66,Masculino,angina atípica,160,246,Não,0,120,Sim,0.0,2,3,6,Sim
+65,Feminino,assintomática,150,225,Não,2,114,Não,1.0,2,3,7,Sim
+42,Masculino,assintomática,136,315,Não,0,125,Sim,1.8,2,0,6,Sim
+52,Masculino,angina atípica,128,205,Sim,0,184,Não,0.0,1,0,3,Não
+65,Feminino,dor não anginosa,140,417,Sim,2,157,Não,0.8,1,1,3,Não
+63,Feminino,angina atípica,140,195,Não,0,179,Não,0.0,1,2,3,Não
+45,Feminino,angina atípica,130,234,Não,2,175,Não,0.6,2,0,3,Não
+41,Feminino,angina atípica,105,198,Não,0,168,Não,0.0,1,1,3,Não
+61,Masculino,assintomática,138,166,Não,2,125,Sim,3.6,2,1,3,Sim
+60,Feminino,dor não anginosa,120,178,Sim,0,96,Não,0.0,1,0,3,Não
+59,Feminino,assintomática,174,249,Não,0,143,Sim,0.0,2,0,3,Sim
+62,Masculino,angina atípica,120,281,Não,2,103,Não,1.4,2,1,7,Sim
+57,Masculino,dor não anginosa,150,126,Sim,0,173,Não,0.2,1,1,7,Não
+51,Feminino,assintomática,130,305,Não,0,142,Sim,1.2,2,0,7,Sim
+44,Masculino,dor não anginosa,120,226,Não,0,169,Não,0.0,1,0,3,Não
+60,Feminino,angina típica,150,240,Não,0,171,Não,0.9,1,0,3,Não
+63,Masculino,angina típica,145,233,Sim,2,150,Não,2.3,3,0,6,Não
+57,Masculino,assintomática,150,276,Não,2,112,Sim,0.6,2,1,6,Sim
+51,Masculino,assintomática,140,261,Não,2,186,Sim,0.0,1,0,3,Não
+58,Feminino,angina atípica,136,319,Sim,2,152,Não,0.0,1,2,3,Sim
+44,Feminino,dor não anginosa,118,242,Não,0,149,Não,0.3,2,1,3,Não
+47,Masculino,dor não anginosa,108,243,Não,0,152,Não,0.0,1,0,3,Sim
+61,Masculino,assintomática,120,260,Não,0,140,Sim,3.6,2,1,7,Sim
+57,Feminino,assintomática,120,354,Não,0,163,Sim,0.6,1,0,3,Não
+70,Masculino,angina atípica,156,245,Não,2,143,Não,0.0,1,0,3,Não
+76,Feminino,dor não anginosa,140,197,Não,1,116,Não,1.1,2,0,3,Não
+67,Feminino,assintomática,106,223,Não,0,142,Não,0.3,1,2,3,Não
+45,Masculino,assintomática,142,309,Não,2,147,Sim,0.0,2,3,7,Sim
+45,Masculino,assintomática,104,208,Não,2,148,Sim,3.0,2,0,3,Não
+39,Feminino,dor não anginosa,94,199,Não,0,179,Não,0.0,1,0,3,Não
+42,Feminino,dor não anginosa,120,209,Não,0,173,Não,0.0,2,0,3,Não
+56,Masculino,angina atípica,120,236,Não,0,178,Não,0.8,1,0,3,Não
+58,Masculino,assintomática,146,218,Não,0,105,Não,2.0,2,1,7,Sim
+35,Masculino,assintomática,120,198,Não,0,130,Sim,1.6,2,0,7,Sim
+58,Masculino,assintomática,150,270,Não,2,111,Sim,0.8,1,0,7,Sim
+41,Masculino,dor não anginosa,130,214,Não,2,168,Não,2.0,2,0,3,Não
+57,Masculino,assintomática,110,201,Não,0,126,Sim,1.5,2,0,6,Não
+42,Masculino,angina típica,148,244,Não,2,178,Não,0.8,1,2,3,Não
+62,Masculino,angina atípica,128,208,Sim,2,140,Não,0.0,1,0,3,Não
+59,Masculino,angina típica,178,270,Não,2,145,Não,4.2,3,0,7,Não
+41,Feminino,angina atípica,126,306,Não,0,163,Não,0.0,1,0,3,Não
+50,Masculino,assintomática,150,243,Não,2,128,Não,2.6,2,0,7,Sim
+59,Masculino,angina atípica,140,221,Não,0,164,Sim,0.0,1,0,3,Não
+61,Feminino,assintomática,130,330,Não,2,169,Não,0.0,1,0,3,Sim
+54,Masculino,assintomática,124,266,Não,2,109,Sim,2.2,2,1,7,Sim
+54,Masculino,assintomática,110,206,Não,2,108,Sim,0.0,2,1,3,Sim
+52,Masculino,assintomática,125,212,Não,0,168,Não,1.0,1,2,7,Sim
+47,Masculino,assintomática,110,275,Não,2,118,Sim,1.0,2,1,3,Sim
+66,Masculino,assintomática,120,302,Não,2,151,Não,0.4,2,0,3,Não
+58,Masculino,assintomática,100,234,Não,0,156,Não,0.1,1,1,7,Sim
+64,Feminino,dor não anginosa,140,313,Não,0,133,Não,0.2,1,0,7,Não
+50,Feminino,angina atípica,120,244,Não,0,162,Não,1.1,1,0,3,Não
+44,Feminino,dor não anginosa,108,141,Não,0,175,Não,0.6,2,0,3,Não
+67,Masculino,assintomática,120,237,Não,0,71,Não,1.0,2,0,3,Sim
+49,Feminino,assintomática,130,269,Não,0,163,Não,0.0,1,0,3,Não
+57,Masculino,assintomática,165,289,Sim,2,124,Não,1.0,2,3,7,Sim
+63,Masculino,assintomática,130,254,Não,2,147,Não,1.4,2,1,7,Sim
+48,Masculino,assintomática,124,274,Não,2,166,Não,0.5,2,0,7,Sim
+51,Masculino,dor não anginosa,100,222,Não,0,143,Sim,1.2,2,0,3,Não
+60,Feminino,assintomática,150,258,Não,2,157,Não,2.6,2,2,7,Sim
+59,Masculino,assintomática,140,177,Não,0,162,Sim,0.0,1,1,7,Sim
+45,Feminino,angina atípica,112,160,Não,0,138,Não,0.0,2,0,3,Não
+55,Feminino,assintomática,180,327,Não,1,117,Sim,3.4,2,0,3,Sim
+41,Masculino,angina atípica,110,235,Não,0,153,Não,0.0,1,0,3,Não
+60,Feminino,assintomática,158,305,Não,2,161,Não,0.0,1,0,3,Sim
+54,Feminino,dor não anginosa,135,304,Sim,0,170,Não,0.0,1,0,3,Não
+42,Masculino,angina atípica,120,295,Não,0,162,Não,0.0,1,0,3,Não
+49,Feminino,angina atípica,134,271,Não,0,162,Não,0.0,2,0,3,Não
+46,Masculino,assintomática,120,249,Não,2,144,Não,0.8,1,0,7,Sim
+56,Feminino,assintomática,200,288,Sim,2,133,Sim,4.0,3,2,7,Sim
+66,Feminino,angina típica,150,226,Não,0,114,Não,2.6,3,0,3,Não
+56,Masculino,assintomática,130,283,Sim,2,103,Sim,1.6,3,0,7,Sim
+49,Masculino,dor não anginosa,120,188,Não,0,139,Não,2.0,2,3,7,Sim
+54,Masculino,assintomática,122,286,Não,2,116,Sim,3.2,2,2,3,Sim
+57,Masculino,assintomática,152,274,Não,0,88,Sim,1.2,2,1,7,Sim
+65,Feminino,dor não anginosa,160,360,Não,2,151,Não,0.8,1,0,3,Não
+54,Masculino,dor não anginosa,125,273,Não,2,152,Não,0.5,3,1,3,Não
+54,Feminino,dor não anginosa,160,201,Não,0,163,Não,0.0,1,1,3,Não
+62,Masculino,assintomática,120,267,Não,0,99,Sim,1.8,2,2,7,Sim
+52,Feminino,dor não anginosa,136,196,Não,2,169,Não,0.1,2,0,3,Não
+52,Masculino,angina atípica,134,201,Não,0,158,Não,0.8,1,1,3,Não
+60,Masculino,assintomática,117,230,Sim,0,160,Sim,1.4,1,2,7,Sim
+63,Feminino,assintomática,108,269,Não,0,169,Sim,1.8,2,2,3,Sim
+66,Masculino,assintomática,112,212,Não,2,132,Sim,0.1,1,1,3,Sim
+42,Masculino,assintomática,140,226,Não,0,178,Não,0.0,1,0,3,Não
+64,Masculino,assintomática,120,246,Não,2,96,Sim,2.2,3,1,3,Sim
+54,Masculino,dor não anginosa,150,232,Não,2,165,Não,1.6,1,0,7,Não
+46,Feminino,dor não anginosa,142,177,Não,2,160,Sim,1.4,3,0,3,Não
+67,Feminino,dor não anginosa,152,277,Não,0,172,Não,0.0,1,1,3,Não
+56,Masculino,assintomática,125,249,Sim,2,144,Sim,1.2,2,1,3,Sim
+34,Feminino,angina atípica,118,210,Não,0,192,Não,0.7,1,0,3,Não
+57,Masculino,assintomática,132,207,Não,0,168,Sim,0.0,1,0,7,Não
+64,Masculino,assintomática,145,212,Não,2,132,Não,2.0,2,2,6,Sim
+59,Masculino,assintomática,138,271,Não,2,182,Não,0.0,1,0,3,Não
+50,Masculino,dor não anginosa,140,233,Não,0,163,Não,0.6,2,1,7,Sim
+51,Masculino,angina típica,125,213,Não,2,125,Sim,1.4,1,1,3,Não
+54,Masculino,angina atípica,192,283,Não,2,195,Não,0.0,1,1,7,Sim
+53,Masculino,assintomática,123,282,Não,0,95,Sim,2.0,2,2,7,Sim
+52,Masculino,assintomática,112,230,Não,0,160,Não,0.0,1,1,3,Sim
+40,Masculino,assintomática,110,167,Não,2,114,Sim,2.0,2,0,7,Sim
+58,Masculino,dor não anginosa,132,224,Não,2,173,Não,3.2,1,2,7,Sim
+41,Feminino,dor não anginosa,112,268,Não,2,172,Sim,0.0,1,0,3,Não
+41,Masculino,dor não anginosa,112,250,Não,0,179,Não,0.0,1,0,3,Não
+50,Feminino,dor não anginosa,120,219,Não,0,158,Não,1.6,2,0,3,Não
+54,Feminino,dor não anginosa,108,267,Não,2,167,Não,0.0,1,0,3,Não
+64,Feminino,assintomática,130,303,Não,0,122,Não,2.0,2,2,3,Não
+51,Feminino,dor não anginosa,130,256,Não,2,149,Não,0.5,1,0,3,Não
+46,Feminino,angina atípica,105,204,Não,0,172,Não,0.0,1,0,3,Não
+55,Masculino,assintomática,140,217,Não,0,111,Sim,5.6,3,0,7,Sim
+45,Masculino,angina atípica,128,308,Não,2,170,Não,0.0,1,0,3,Não
+56,Masculino,angina típica,120,193,Não,2,162,Não,1.9,2,0,7,Não
+66,Feminino,assintomática,178,228,Sim,0,165,Sim,1.0,2,2,7,Sim
+38,Masculino,angina típica,120,231,Não,0,182,Sim,3.8,2,0,7,Sim
+62,Feminino,assintomática,150,244,Não,0,154,Sim,1.4,2,0,3,Sim
+55,Masculino,angina atípica,130,262,Não,0,155,Não,0.0,1,0,3,Não
+58,Masculino,assintomática,128,259,Não,2,130,Sim,3.0,2,2,7,Sim
+43,Masculino,assintomática,110,211,Não,0,161,Não,0.0,1,0,7,Não
+64,Feminino,assintomática,180,325,Não,0,154,Sim,0.0,1,0,3,Não
+50,Feminino,assintomática,110,254,Não,2,159,Não,0.0,1,0,3,Não
+53,Masculino,dor não anginosa,130,197,Sim,2,152,Não,1.2,3,0,3,Não
+45,Feminino,assintomática,138,236,Não,2,152,Sim,0.2,2,0,3,Não
+65,Masculino,angina típica,138,282,Sim,2,174,Não,1.4,2,1,3,Sim
+69,Masculino,angina típica,160,234,Sim,2,131,Não,0.1,2,1,3,Não
+69,Masculino,dor não anginosa,140,254,Não,2,146,Não,2.0,2,3,7,Sim
+67,Masculino,assintomática,100,299,Não,2,125,Sim,0.9,2,2,3,Sim
+68,Feminino,dor não anginosa,120,211,Não,2,115,Não,1.5,2,0,3,Não
+34,Masculino,angina típica,118,182,Não,2,174,Não,0.0,1,0,3,Não
+62,Feminino,assintomática,138,294,Sim,0,106,Não,1.9,2,3,3,Sim
+51,Masculino,assintomática,140,298,Não,0,122,Sim,4.2,2,3,7,Sim
+46,Masculino,dor não anginosa,150,231,Não,0,147,Não,3.6,2,0,3,Sim
+67,Masculino,assintomática,125,254,Sim,0,163,Não,0.2,2,2,7,Sim
+50,Masculino,dor não anginosa,129,196,Não,0,163,Não,0.0,1,0,3,Não
+42,Masculino,dor não anginosa,120,240,Sim,0,194,Não,0.8,3,0,7,Não
+56,Feminino,assintomática,134,409,Não,2,150,Sim,1.9,2,2,7,Sim
+41,Masculino,assintomática,110,172,Não,2,158,Não,0.0,1,0,7,Sim
+42,Feminino,assintomática,102,265,Não,2,122,Não,0.6,2,0,3,Não
+53,Masculino,dor não anginosa,130,246,Sim,2,173,Não,0.0,1,3,3,Não
+43,Masculino,dor não anginosa,130,315,Não,0,162,Não,1.9,1,1,3,Não
+56,Masculino,assintomática,132,184,Não,2,105,Sim,2.1,2,1,6,Sim
+52,Masculino,assintomática,108,233,Sim,0,147,Não,0.1,1,3,7,Não
+62,Feminino,assintomática,140,394,Não,2,157,Não,1.2,2,0,3,Não
+70,Masculino,dor não anginosa,160,269,Não,0,112,Sim,2.9,2,1,7,Sim
+54,Masculino,assintomática,140,239,Não,0,160,Não,1.2,1,0,3,Não
+70,Masculino,assintomática,145,174,Não,0,125,Sim,2.6,3,0,7,Sim
+54,Masculino,angina atípica,108,309,Não,0,156,Não,0.0,1,0,7,Não
+35,Masculino,assintomática,126,282,Não,2,156,Sim,0.0,1,0,7,Sim
+48,Masculino,dor não anginosa,124,255,Sim,0,175,Não,0.0,1,2,3,Não
+55,Feminino,angina atípica,135,250,Não,2,161,Não,1.4,2,0,3,Não
+58,Feminino,assintomática,100,248,Não,2,122,Não,1.0,2,0,3,Não
+54,Feminino,dor não anginosa,110,214,Não,0,158,Não,1.6,2,0,3,Não
+69,Feminino,angina típica,140,239,Não,0,151,Não,1.8,1,2,3,Não
+77,Masculino,assintomática,125,304,Não,2,162,Sim,0.0,1,3,3,Sim
+68,Masculino,dor não anginosa,118,277,Não,0,151,Não,1.0,1,1,7,Não
+58,Masculino,assintomática,125,300,Não,2,171,Não,0.0,1,2,7,Sim
+60,Masculino,assintomática,125,258,Não,2,141,Sim,2.8,2,1,7,Sim
+51,Masculino,assintomática,140,299,Não,0,173,Sim,1.6,1,0,7,Sim
+55,Masculino,assintomática,160,289,Não,2,145,Sim,0.8,2,1,7,Sim
+52,Masculino,angina típica,152,298,Sim,0,178,Não,1.2,2,0,7,Não
+60,Feminino,dor não anginosa,102,318,Não,0,160,Não,0.0,1,1,3,Não
+58,Masculino,dor não anginosa,105,240,Não,2,154,Sim,0.6,2,0,7,Não
+64,Masculino,dor não anginosa,125,309,Não,0,131,Sim,1.8,2,0,7,Sim
+37,Masculino,dor não anginosa,130,250,Não,0,187,Não,3.5,3,0,3,Não
+59,Masculino,angina típica,170,288,Não,2,159,Não,0.2,2,0,7,Sim
+51,Masculino,dor não anginosa,125,245,Sim,2,166,Não,2.4,2,0,3,Não
+43,Feminino,dor não anginosa,122,213,Não,0,165,Não,0.2,2,0,3,Não
+58,Masculino,assintomática,128,216,Não,2,131,Sim,2.2,2,3,7,Sim
+29,Masculino,angina atípica,130,204,Não,2,202,Não,0.0,1,0,3,Não
+41,Feminino,angina atípica,130,204,Não,2,172,Não,1.4,1,0,3,Não
+63,Feminino,dor não anginosa,135,252,Não,2,172,Não,0.0,1,0,3,Não
+51,Masculino,dor não anginosa,94,227,Não,0,154,Sim,0.0,1,1,7,Não
+54,Masculino,dor não anginosa,120,258,Não,2,147,Não,0.4,2,0,7,Não
+44,Masculino,angina atípica,120,220,Não,0,170,Não,0.0,1,0,3,Não
+54,Masculino,assintomática,110,239,Não,0,126,Sim,2.8,2,1,7,Sim
+65,Masculino,assintomática,135,254,Não,2,127,Não,2.8,2,1,7,Sim
+57,Masculino,dor não anginosa,150,168,Não,0,174,Não,1.6,1,0,3,Não
+63,Masculino,assintomática,130,330,Sim,2,132,Sim,1.8,1,3,7,Sim
+35,Feminino,assintomática,138,183,Não,0,182,Não,1.4,1,0,3,Não
+41,Masculino,angina atípica,135,203,Não,0,132,Não,0.0,2,0,6,Não
+62,Feminino,dor não anginosa,130,263,Não,0,97,Não,1.2,2,1,7,Sim
+43,Feminino,assintomática,132,341,Sim,2,136,Sim,3.0,2,0,7,Sim
+58,Feminino,angina típica,150,283,Sim,2,162,Não,1.0,1,0,3,Não
+52,Masculino,angina típica,118,186,Não,2,190,Não,0.0,2,0,6,Não
+61,Feminino,assintomática,145,307,Não,2,146,Sim,1.0,2,0,7,Sim
+39,Masculino,assintomática,118,219,Não,0,140,Não,1.2,2,0,7,Sim
+45,Masculino,assintomática,115,260,Não,2,185,Não,0.0,1,0,3,Não
+52,Masculino,assintomática,128,255,Não,0,161,Sim,0.0,1,1,7,Sim
+62,Masculino,dor não anginosa,130,231,Não,0,146,Não,1.8,2,3,7,Não
+62,Feminino,assintomática,160,164,Não,2,145,Não,6.2,3,3,7,Sim
+53,Feminino,assintomática,138,234,Não,2,160,Não,0.0,1,0,3,Não
+43,Masculino,assintomática,120,177,Não,2,120,Sim,2.5,2,0,7,Sim
+47,Masculino,dor não anginosa,138,257,Não,2,156,Não,0.0,1,0,3,Não
+52,Masculino,angina atípica,120,325,Não,0,172,Não,0.2,1,0,3,Não
+68,Masculino,dor não anginosa,180,274,Sim,2,150,Sim,1.6,2,0,7,Sim
+39,Masculino,dor não anginosa,140,321,Não,2,182,Não,0.0,1,0,3,Não
+53,Feminino,assintomática,130,264,Não,2,143,Não,0.4,2,0,3,Não
+62,Feminino,assintomática,140,268,Não,2,160,Não,3.6,3,2,3,Sim
+51,Feminino,dor não anginosa,140,308,Não,2,142,Não,1.5,1,1,3,Não
+60,Masculino,assintomática,130,253,Não,0,144,Sim,1.4,1,1,7,Sim
+65,Masculino,assintomática,110,248,Não,2,158,Não,0.6,1,2,6,Sim
+65,Feminino,dor não anginosa,155,269,Não,0,148,Não,0.8,1,0,3,Não
+60,Masculino,dor não anginosa,140,185,Não,2,155,Não,3.0,2,0,3,Sim
+60,Masculino,assintomática,145,282,Não,2,142,Sim,2.8,2,2,7,Sim
+54,Masculino,assintomática,120,188,Não,0,113,Não,1.4,2,1,7,Sim
+44,Masculino,angina atípica,130,219,Não,2,188,Não,0.0,1,0,3,Não
+44,Masculino,assintomática,112,290,Não,2,153,Não,0.0,1,1,3,Sim
+51,Masculino,dor não anginosa,110,175,Não,0,123,Não,0.6,1,0,3,Não
+59,Masculino,dor não anginosa,150,212,Sim,0,157,Não,1.6,1,0,3,Não
+71,Feminino,angina atípica,160,302,Não,0,162,Não,0.4,1,2,3,Não
+61,Masculino,dor não anginosa,150,243,Sim,0,137,Sim,1.0,2,0,3,Não
+55,Masculino,assintomática,132,353,Não,0,132,Sim,1.2,2,1,7,Sim
+64,Masculino,dor não anginosa,140,335,Não,0,158,Não,0.0,1,0,3,Sim
+43,Masculino,assintomática,150,247,Não,0,171,Não,1.5,1,0,3,Não
+58,Feminino,dor não anginosa,120,340,Não,0,172,Não,0.0,1,0,3,Não
+60,Masculino,assintomática,130,206,Não,2,132,Sim,2.4,2,2,7,Sim
+58,Masculino,angina atípica,120,284,Não,2,160,Não,1.8,2,0,3,Sim
+49,Masculino,angina atípica,130,266,Não,0,171,Não,0.6,1,0,3,Não
+48,Masculino,angina atípica,110,229,Não,0,168,Não,1.0,3,0,7,Sim
+52,Masculino,dor não anginosa,172,199,Sim,0,162,Não,0.5,1,0,7,Não
+44,Masculino,angina atípica,120,263,Não,0,173,Não,0.0,1,0,7,Não
+56,Feminino,angina atípica,140,294,Não,2,153,Não,1.3,2,0,3,Não
+57,Masculino,assintomática,140,192,Não,0,148,Não,0.4,2,0,6,Não
+67,Masculino,assintomática,160,286,Não,2,108,Sim,1.5,2,3,3,Sim
