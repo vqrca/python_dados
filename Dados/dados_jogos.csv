@@ -1,4 +1,4 @@
-Classificação,Nome,Plataforma,Ano,Genero,Editora,vendas_america_norte,vendas_europa,vendas_japao,Outras_Vendas,Vendas_Globais
+classificacao,nome,plataforma,ano,genero,desenvolvedor,vendas_america_norte,vendas_europa,vendas_japao,outras_vendas,vendas_globais
 1,Wii Sports,Wii,2006.0,Esportes,Nintendo,41.49,29.02,3.77,8.46,82.74
 2,Super Mario Bros.,NES,1985.0,Plataforma,Nintendo,29.08,3.58,6.81,0.77,40.24
 3,Mario Kart Wii,Wii,2008.0,Corrida,Nintendo,15.85,12.88,3.79,3.31,35.82
